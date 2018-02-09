@@ -1,0 +1,1 @@
+# Parallax100-basicFoundationTemplate
